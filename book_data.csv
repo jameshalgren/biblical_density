@@ -1,0 +1,58 @@
+Book,Begin,End,Pages,Words
+Job,-2000,-1900,40,12674
+Genesis,-4000,-1405,58,32046
+Exodus,-1445,-1405,49,25957
+Leviticus,-1445,-1405,36,18852
+Numbers,-1445,-1405,51,25048
+Deuteronomy,-1445,-1405,48,23008
+Psalms,-1410,-450,98,30147
+Joshua,-1405,-1385,29,15671
+Judges,-1043,-1043,30,15385
+Ruth,-1030,-1010,4,2039
+Song of Solomon,-971,-965,6,2020
+Proverbs,-971,-686,34,9921
+Ecclesiastes,-940,-931,9,4537
+1 Samuel,-931,-722,38,20837
+2 Samuel,-931,-722,32,17170
+Obadiah,-850,-840,1,440
+Joel,-835,-796,3,1447
+Jonah,-775,-775,2,1082
+Amos,-750,-750,6,3027
+Hosea,-750,-710,8,3615
+Micah,-735,-710,5,2118
+Isaiah,-700,-681,57,25608
+Nahum,-650,-650,2,855
+Zephaniah,-635,-625,3,1141
+Habakkuk,-615,-605,3,1011
+Ezekiel,-590,-570,59,29918
+Lamentations,-586,-586,7,2324
+Jeremiah,-586,-570,65,33002
+1 Kings,-561,-538,36,20361
+2 Kings,-561,-538,35,18784
+Judith,-538,-70,NaN,NaN
+Daniel,-536,-530,18,9001
+Haggai,-520,-520,2,926
+Baruch,-500,-100,NaN,NaN
+Zechariah,-480,-470,10,4855
+Ezra,-457,-444,12,5605
+1 Chronicles,-450,-430,33,16664
+2 Chronicles,-450,-430,40,21349
+Esther,-450,-331,9,4932
+Malachi,-433,-424,3,1320
+Nehemiah,-424,-400,17,8507
+Susanna,-400,70,NaN,NaN
+Psalm 151,-400,100,NaN,NaN
+Letter of Jeremiah,-307,-317,NaN,NaN
+Tobit,-225,-175,NaN,NaN
+Ben Sira (Sirach),-200,-175,NaN,NaN
+Bel and the Dragon,-200,-100,NaN,NaN
+Greek Esther,-200,-1,NaN,NaN
+Prayer of Azariah,-200,-1,NaN,NaN
+1 Maccabees,-150,-100,NaN,NaN
+2 Maccabees,-150,-100,NaN,NaN
+1 Esdras,-100,100,NaN,NaN
+Prayer of Manasseh,-100,-1,NaN,NaN
+3 Maccabees,-100,-1,NaN,NaN
+4 Maccabees,-100,-1,NaN,NaN
+Wisdom,-50,-20,NaN,NaN
+2 Esdras,100,200,NaN,NaN
